@@ -1,2 +1,4 @@
 # Card-templates_ReactJS
-Created with CodeSandbox
+
+This project uses React Framework to make three cards which contains name , email , phone and an image. 
+
